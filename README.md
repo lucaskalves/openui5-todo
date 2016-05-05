@@ -1,2 +1,7 @@
-# openui5-todo
-TODO List application using clojure and Open UI5
+# OpenUI5 Todo Application
+
+Todo app using OpenUI5 for its frontend and Clojure for its Backend.
+
+##References
+
+- [SAP OpenUI5 Sample Application](https://github.com/SAP/openui5-sample-app)
