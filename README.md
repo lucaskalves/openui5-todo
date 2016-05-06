@@ -1,4 +1,4 @@
-# OpenUI5 Todo Application
+#OpenUI5 Todo App
 
 Todo app using OpenUI5 for its frontend and Clojure for its Backend.
 
